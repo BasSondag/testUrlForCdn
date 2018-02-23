@@ -1,0 +1,22 @@
+* {
+	margin:0px;
+	padding: 0px;
+}
+
+	div {
+		margin-top: 20px;
+	}
+
+		h1 {
+			margin-bottom: 50px;
+		}
+
+		a {
+			text-decoration: none !important;
+			color: white !important;
+
+		}
+
+		input {
+			margin-top: 10px;
+		}
