@@ -1,7 +1,7 @@
 beautifulsoup4==4.6.0
 certifi==2018.1.18
 chardet==3.0.4
-Django==1.10
+Django==2.2.24
 django-webtest==1.9.2
 dnspython==1.15.0
 idna==2.6
